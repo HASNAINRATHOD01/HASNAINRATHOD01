@@ -1,8 +1,8 @@
 # Hi, I'm Hasnain Rathod 👋
 
-🎓 Computer Science Student from Surat, India  
-💻 Passionate about Java, Python & Web Development  
-🌱 Currently learning: MERN Stack, DSA, DBMS  
+🎓 Computer Science Student from Ahmedabad, India  
+💻 Passionate about Java, Python & Web Development,, DSA, DBMS 
+🌱 Currently learning: MERN Stack ,Django 
 🔍 **Open to Internship Opportunities**  
 
 ---
